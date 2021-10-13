@@ -1,0 +1,11 @@
+{
+  "name": "mrrapi",
+  "version": "1.0.0",
+  "description": "Node module for accessing the MiningRigRentals API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "merc",
+  "license": "ISC"
+}
